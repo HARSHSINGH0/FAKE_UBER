@@ -3,9 +3,9 @@
 import random
 
 
-car_wala1=["Name:Roshan singh,Ratings:4.82,Age:44"]
-car_wala2=["Name:Surender singh,Ratings:4.7,Age:46"]
-car_wala3=["Name:Manoj singh,Ratings:4.82,Age:46"]
+car_wala1=["Name:xwc,Ratings:4.82,Age:44"]
+car_wala2=["Name:svd,Ratings:4.7,Age:46"]
+car_wala3=["Name:fdvdf,Ratings:4.82,Age:46"]
 print(car_wala1,car_wala2,car_wala3)
 print("Select any one")
 x=input()
